@@ -79,6 +79,8 @@
         <p>&copy; 2020 | All rights reserved!</p>
 
     </footer>
+
+    <script src="app/js/alert.js"></script>
     
 </body>
 </html>
